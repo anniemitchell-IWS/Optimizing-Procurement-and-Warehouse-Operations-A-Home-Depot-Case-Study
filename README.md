@@ -62,23 +62,7 @@ The analysis is limited to publicly available information and does not represent
 - Executive Communication
 - Strategic Thinking
 
----
 
-##  Repository Structure
-
-```text
-README.md
-
-01_Business_Context.md
-02_Research_Findings.md
-03_Current_Process_Analysis.md
-04_Process_Improvement_Opportunities.md
-05_ERP_Recommendations.md
-06_KPI_Framework.md
-07_Executive_Summary.md
-
-assets/
-```
 
 ---
 
