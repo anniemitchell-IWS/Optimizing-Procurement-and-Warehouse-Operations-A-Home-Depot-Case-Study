@@ -1,6 +1,7 @@
 # Optimizing-Procurement-and-Warehouse-Operations
 ---
-
+>An Independent Business Case Study
+Using Publicly Available Information from The Home Depot
 ##  Project Overview
 
 Home Depot has made significant investments in expanding its Pro business through strategic acquisitions, supply chain modernization, and enhanced fulfillment capabilities. As its network continues to grow, integrating procurement, warehouse operations, inventory visibility, and fulfillment processes becomes increasingly important to delivering a seamless experience for professional contractors.
