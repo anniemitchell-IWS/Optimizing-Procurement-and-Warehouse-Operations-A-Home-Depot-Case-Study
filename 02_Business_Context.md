@@ -47,6 +47,9 @@ This case study examines how procurement and warehouse operations can support th
 ## Sources
 
 - Home Depot Investor Relations
+  https://ir.homedepot.com/
 - Home Depot Annual Report (10-K)
+  https://ir.homedepot.com/~/media/Files/H/HomeDepot-IR/reports-and-presentations/quarterly-earnings/2025/q4-2025-10-k.pdf
 - Home Depot Press Releases
 - Public announcements regarding the SRS Distribution and GMS acquisitions
+https://ir.homedepot.com/news-releases/2025/09-04-2025-133535262
