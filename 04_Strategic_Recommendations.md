@@ -117,11 +117,13 @@ Each recommendation supports a common objective: strengthening integration acros
 ## Sources
 
 1. The Home Depot. *The Home Depot Completes Acquisition of SRS Distribution.* June 18, 2024.
+   https://ir.homedepot.com/news-releases/2024/06-18-2024-153031934
 
 2. The Home Depot. *The Home Depot and SRS Distribution Complete Acquisition of GMS.* June 30, 2025.
+   https://corporate.homedepot.com/news/company/home-depot-and-its-subsidiary-srs-distribution-complete-acquisition-gms
 
 3. The Home Depot Investor Relations. *Annual Report (Form 10-K).*
+   https://ir.homedepot.com/~/media/Files/H/HomeDepot-IR/reports-and-presentations/quarterly-earnings/2025/q4-2025-10-k.pdf
 
 4. Google Cloud. *The Home Depot Builds More Connected Retail Experiences with SAP on Google Cloud.*
-
-5. Home Depot Corporate News and Investor Communications regarding the Pro ecosystem and supply chain modernization.
+   https://services.google.com/fh/files/misc/the.home.depot.builds.more.connected.retail.experiences.with.sap.on.google.cloud.pdf
