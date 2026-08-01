@@ -59,11 +59,11 @@ Together, these metrics support continuous improvement across procurement, wareh
 ## Sources
 
 1. The Home Depot. *Annual Report (Form 10-K).*
+   https://ir.homedepot.com/~/media/Files/H/HomeDepot-IR/reports-and-presentations/quarterly-earnings/2025/q4-2025-10-k.pdf
 
 2. The Home Depot Investor Relations.
+https://ir.homedepot.com/
 
-3. APICS / ASCM Supply Chain Performance Metrics.
 
-4. SAP Insights – Supply Chain and Procurement Performance Metrics.
-
-5. Home Depot Corporate News and Investor Communications.
+3. SAP Insights – Supply Chain and Procurement Performance Metrics.
+   https://help.sap.com/docs/SUPPORT_CONTENT/cpm/3361874403.html
