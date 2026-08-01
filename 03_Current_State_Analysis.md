@@ -70,13 +70,10 @@ This observation serves as the foundation for the recommendations presented in t
 ## Sources
 
 1. The Home Depot. *The Home Depot Completes Acquisition of SRS Distribution.* June 18, 2024.
-   https://corporate.homedepot.com/news/company/home-depot-completes-acquisition-srs-distribution
+   https://ir.homedepot.com/news-releases/2024/06-18-2024-153031934
 
 2. The Home Depot. *The Home Depot and SRS Distribution Complete Acquisition of GMS.* June 30, 2025.
    https://corporate.homedepot.com/news/company/home-depot-and-its-subsidiary-srs-distribution-complete-acquisition-gms
 
 3. The Home Depot Investor Relations. *Annual Report (Form 10-K).* 2025.
    https://ir.homedepot.com
-
-4. The Home Depot. *Pro Ecosystem and Supply Chain Strategy.*
-   https://corporate.homedepot.com
